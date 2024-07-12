@@ -2,6 +2,6 @@
 
  Here is one of my projects
 
-# [Cusina](https://cusina.vercel.app).
+[Cusina](https://cusina.vercel.app).
 
 
