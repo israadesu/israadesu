@@ -7,7 +7,7 @@
 
 # Projects
 
-   - ### **[Cusina](https://github.com/xhunn/project-one)**
+   - ### **[Cusina](https://cusina.vercel.app/)**
      A site for searching recipes
 
      > to add more
