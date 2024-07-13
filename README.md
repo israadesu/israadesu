@@ -7,8 +7,9 @@
 
 # Projects
 
-   - ### **[Cusina](https://cusina.vercel.app/)**
+   - ### **[Cusina](https://cusina.vercel.app/)** <sup>Typescript</sup>
      A site for searching recipes
+
 
      > to add more
 
