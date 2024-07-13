@@ -1,6 +1,6 @@
 ## My overview description is still on going please stand by ! !
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israadesu&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israadesu)](https://github.com/israadesu/github-readme-stats)
 
 
 
