@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=35&duration=4000&pause=1000&color=49E8F7&center=true&vCenter=true&random=false&width=435&lines=+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;I'm+israa;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=35&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=+Hi!;I'm+israa;" />
 </h1>
 
 <h1 align="center">  <img src="https://github.com/user-attachments/assets/e30522db-9d7e-4940-85bc-24bd95265da5"/></h1>
@@ -12,6 +12,8 @@
 
 
      > to add more
+     
+
 
 <br/>
 
