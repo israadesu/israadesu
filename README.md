@@ -7,14 +7,17 @@
 
 # Projects
 
+
+
    - ### **[Cusina](https://cusina.vercel.app/)** <sup>Typescript</sup>
      A site for searching recipes
 
-
+   - ### **[Translate](https://translate-silk.vercel.app/)** <sup>Typscript</sup>
+     A simple Translation project
      
    - ### **[Pinterest Clone](https://pinterest-clone-steel.vercel.app/)** <sup>HTML/CSS</sup>
      One of my oldest projects that I use for practicing how to layer a grid and how to have a smooth resize and adding more colums
-
+     
      > to add more
 <br/>
 
