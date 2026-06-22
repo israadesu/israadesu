@@ -53,11 +53,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gsap.svg" height="40" alt="gsap logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/framer.svg" height="40" alt="framer logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
+  <img src="https://cdn.simpleicons.org/gsap/88CE02" height="40" alt="gsap logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="40" alt="framer logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo" />
 </div>
 
 
