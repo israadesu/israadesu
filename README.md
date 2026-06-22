@@ -7,6 +7,8 @@
 
 # Projects
 
+   - ### **[Angeline Portfolio](https://angelinedimaanoportfolio.vercel.app/)** <sup>Typescript</sup>
+     A site I made for my friend
 
 
    - ### **[Cusina](https://cusina.vercel.app/)** <sup>Typescript</sup>
